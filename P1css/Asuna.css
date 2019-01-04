@@ -64,3 +64,7 @@ footer ul li{
 footer a{
 	color: blue;
 }
+
+ol{
+	list-style: none;
+}
